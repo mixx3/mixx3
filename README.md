@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mixx3
-- 👀 I’m interested in Python coding
-- 🌱 I’m currently learning how to develop android apps using Python
-- 💞️ I’m looking to collaborate on with literally everyone (the main reason is to improve my garbage coding)
+- 👋 Hi, I’m Mike Parfenov
+- 👀 I’m interested in machine learning and backend development
+- 🌱 I’m currently learning linear algebra and calculus ) Ah, nevemind...
+- Currently, I am learning docker, configuration files and all that stuff to approve my projects to a real production level
 - 📫 mmiikkllee@yandex.ru / mmikee00800@gmail.com
 
 <!---
